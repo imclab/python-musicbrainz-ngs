@@ -91,3 +91,10 @@ Submitting
 .. autofunction:: musicbrainzngs.add_releases_to_collection
 
 .. autofunction:: musicbrainzngs.remove_releases_from_collection
+
+Exceptions
+----------
+
+.. autoclass:: musicbrainzngs.AuthenticationError
+
+.. autoclass:: musicbrainzngs.UsageError
